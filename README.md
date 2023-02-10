@@ -3,6 +3,10 @@
 - 请自行生成修改Board Serial Number、序列号、SmUUID等三码信息
 - EFI [点击下载](https://github.com/lwf1127/Asus-TUF-Z390-9900K-6600XT-EFI/releases)
 
+#### 20230210更新：
+
+1. 如在开机时发现主板自检阶段时间过长，显示器很久才能点亮，请在Kernel-》Quirks-》勾选：DisableRtcChecksum(禁用RTC校验)
+
 ![输入图片说明](image/WX20230208-192139.png)
 
 #### 硬件配置：
