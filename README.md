@@ -11,12 +11,12 @@
 
 1. 如在开机时发现主板自检阶段时间过长，显示器很久才能点亮，请在Kernel-》Quirks-》勾选：DisableRtcChecksum(禁用RTC校验)
 
-![输入图片说明](image/WX20230208-192139.png)
+![输入图片说明](image/iShot_2023-03-03_12.49.41.png)
 
 #### 硬件配置：
 - CPU ：i9-9900K
 - 主板 ：华硕(ASUS)TUF Z390-PLUS GAMING (WI-FI) 电竞特工主板
-- 内存 ：海盗船 DDR4 3600 8x4 32G
+- 内存 ：海盗船 DDR4 3600 8x2 16G
 - 显卡 ：技嘉RX6600XT 魔鹰PRO
 - 硬盘 ：海康威视 C2000Pro 500G
 - 板载网卡：Intel有线网卡+Intel® Wireless-AC 9560
