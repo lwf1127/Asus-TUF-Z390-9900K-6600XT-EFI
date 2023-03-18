@@ -11,7 +11,7 @@
 
 1. 如在开机时发现主板自检阶段时间过长，显示器很久才能点亮，请在Kernel-》Quirks-》勾选：DisableRtcChecksum(禁用RTC校验)
 
-![输入图片说明](image/iShot_2023-03-03_12.49.41.png)
+![输入图片说明](image/iShot_2023-03-18_12.49.41.png)
 
 #### 硬件配置：
 - CPU ：i9-9900K
