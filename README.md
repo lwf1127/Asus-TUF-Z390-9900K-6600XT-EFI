@@ -21,7 +21,7 @@
 - 硬盘 ：海康威视 C2000Pro 500G
 - 板载网卡：Intel有线网卡+Intel® Wireless-AC 9560
 - 板载声卡：Realtek® S1200A
-- 无线网卡：奋威T919 BCM94360CD
+- 无线网卡：奋威T919 BCM943602CDP
 - 散热：利民 Magic EX 240水冷
 
 #### BIOS设置：
