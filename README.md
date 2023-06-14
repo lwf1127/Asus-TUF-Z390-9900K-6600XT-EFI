@@ -16,7 +16,7 @@
 #### 硬件配置：
 - CPU ：i9-9900K
 - 主板 ：华硕(ASUS)TUF Z390-PLUS GAMING (WI-FI) 电竞特工主板
-- 内存 ：光威（Gloway） DDR4 3200 32G*2 64G
+- 内存 ：DDR4 3200 32G*2 64G
 - 显卡 ：技嘉RX6600XT 魔鹰PRO
 - 硬盘 ：海康威视 C2000Pro 500G
 - 板载网卡：Intel有线网卡+Intel® Wireless-AC 9560
