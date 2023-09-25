@@ -2,7 +2,7 @@
 - 支持系统：Monterey 12.x、Ventura 13.x、Sonoma 14.x 
 - 请自行生成修改Board Serial Number、序列号、SmUUID等三码信息
 - EFI [点击下载](https://github.com/lwf1127/Asus-TUF-Z390-9900K-6600XT-EFI/releases)
-- 
+  
 #### 20230925更新：
 
 1. 更新：独显6600xt长期稳定版,oc-0.9.4-开发版,MacOS13.4,定制USB端口,解锁15个USB口上限
