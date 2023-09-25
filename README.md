@@ -62,7 +62,7 @@
 ![输入图片说明](image/WX20230208-190300.png)
 
 #### OpenCore & Kext：
-![输入图片说明](image/kernel.png)
+![输入图片说明](image/kernel-2.png)
 
 #### USB定制：
 ![输入图片说明](image/usb.png)
