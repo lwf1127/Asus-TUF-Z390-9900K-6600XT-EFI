@@ -2,6 +2,9 @@
 - 支持系统：Monterey 12.x、Ventura 13.x、Sonoma 14.x 
 - 请自行生成修改Board Serial Number、序列号、SmUUID等三码信息
 - EFI(独显/集显可选) [点击下载](https://github.com/lwf1127/Asus-TUF-Z390-9900K-6600XT-EFI/releases)
+
+#### 20231007更新：
+1. 集显HD630，升级到 MacOS14。OCLP1.0.1完美支持博通网卡。隔空、通用、互通一切正常。
   
 #### 20230925更新：
 
