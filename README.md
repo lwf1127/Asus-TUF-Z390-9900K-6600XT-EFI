@@ -3,6 +3,8 @@
 - 请自行生成修改Board Serial Number、序列号、SmUUID等三码信息
 - EFI(独显/集显可选) [点击下载](https://github.com/lwf1127/Asus-TUF-Z390-9900K-6600XT-EFI/releases)
   
+![输入图片说明](image/WX20231016-134826@2x.png)
+
 #### 20231016更新：
 1. 独显6600XT，升级到MacOS14。支持4k144hz可变刷新率,支持HDR,原生支持HiDPI。从此，黑果再无短板！
    
@@ -23,7 +25,6 @@
 
 1. 如在开机时发现主板自检阶段时间过长，显示器很久才能点亮，请在Kernel-》Quirks-》勾选：DisableRtcChecksum(禁用RTC校验)
 
-![输入图片说明](image/info.png)
 
 #### 硬件配置：
 - CPU ：i9-9900K
