@@ -3,7 +3,10 @@
 - 请自行生成修改Board Serial Number、序列号、SmUUID等三码信息
 - EFI(独显/集显可选) [点击下载](https://github.com/lwf1127/Asus-TUF-Z390-9900K-6600XT-EFI/releases)
   
-![输入图片说明](image/WX20231016-134826@2x.png)
+![输入图片说明](image/macos.png)
+#### 20240129更新：
+1. 独显6600XT，升级到MacOS14.3,OC0.9.7正式版。
+2. 集显HD630，升级到MacOS14.3,OC0.9.7正式版。
 
 #### 20231016更新：
 1. 独显6600XT，升级到MacOS14。支持4k144hz可变刷新率,支持HDR,原生支持HiDPI。从此，黑果再无短板！
@@ -66,15 +69,18 @@
 10. CPU、显卡、风扇温度转速显示正常
 
 #### 部分截图：
-![输入图片说明](image/WX20230208-190224.png)
-![输入图片说明](image/WX20230208-190237.png)
-![输入图片说明](image/WX20230208-190300.png)
+![输入图片说明](image/amd-gpu.png)
+![输入图片说明](image/ble.png)
+![输入图片说明](image/dpi.png)
 
 #### OpenCore & Kext：
-![输入图片说明](image/kernel-2.png)
+![输入图片说明](image/kernel-3.png)
+![输入图片说明](image/acpi.png)
+![输入图片说明](image/boot-args.png)
+![输入图片说明](image/dp.png)
 
 #### USB定制：
-![输入图片说明](image/usb.png)
+![输入图片说明](image/usb-2.png)
 
 #### 鸣谢：
 - EFI参考：https://github.com/jhihhe/Hackintosh-Asus_Prime_Z390P-i9-9900K_UHD630-RX-6600XT-EFI_OpenCore-0.8.8-macOS
