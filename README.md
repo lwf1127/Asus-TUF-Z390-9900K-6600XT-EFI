@@ -37,7 +37,7 @@
 - 硬盘 ：海康威视 C2000Pro 500G
 - 板载网卡：Intel有线网卡+Intel® Wireless-AC 9560
 - 板载声卡：Realtek® S1200A
-- 无线网卡：BCM943602CDP
+- 无线网卡：BCM943602CDP(小黄鱼白果拆机卡)+PCIE转接卡
 - 散热：利民 Magic EX 240水冷
 
 #### BIOS设置：
@@ -74,10 +74,11 @@
 ![输入图片说明](image/dpi.png)
 
 #### OpenCore & Kext：
-![输入图片说明](image/kernel-3.png)
 ![输入图片说明](image/acpi.png)
-![输入图片说明](image/boot-args.png)
 ![输入图片说明](image/dp.png)
+![输入图片说明](image/kernel-3.png)
+![输入图片说明](image/boot-args.png)
+
 
 #### USB定制：
 ![输入图片说明](image/usb-2.png)
