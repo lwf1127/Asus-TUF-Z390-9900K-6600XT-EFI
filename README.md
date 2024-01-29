@@ -5,7 +5,7 @@
   
 ![输入图片说明](image/macos.png)
 #### 20240129更新：
-1. 独显6600XT，升级到MacOS14.3,OC0.9.7正式版。博通网卡需要搭配OCLP补丁使用, https://github.com/dortania/OpenCore-Legacy-Patcher
+1. 独显6600XT，升级到MacOS14.3,OC0.9.7正式版。博通网卡需要搭配OCLP补丁使用。 https://github.com/dortania/OpenCore-Legacy-Patcher
 2. 集显HD630在MacOS14下，已无法流程运行，交互动画会丢帧卡顿，后续将不再更新。
 
 #### 20231016更新：
