@@ -5,9 +5,10 @@
   
 ![输入图片说明](image/macos-26.jpg)
 #### 20260203更新：
-1. MacOS升级到Tahoe 26.2,OpenCore-1.0.7,博通网卡需要搭配OCLP-Mod补丁使用。 
-2. 机型升级为iMac20,2。
-3. USB已定制USBPortsMap.kext。
+1. MacOS升级到Tahoe 26.2,OpenCore-1.0.7。Kernel相关驱动升级到最新。
+2. 机型升级为iMac20,2。启动参数新增：-amfipassbeta 
+3. USB驱动已定制USBPortsMap.kext。
+4. 博通网卡需要搭配社区版驱动OCLP-Mod3.1.4补丁使用。 
 
 #### 20240129更新：
 1. 独显6600XT，升级到MacOS14.3,OC0.9.7正式版。博通网卡需要搭配OCLP补丁使用。 
