@@ -1,9 +1,14 @@
 # Asus-TUF-Z390-9900K-6600XT-EFI
-- 支持系统：Monterey 12.x、Ventura 13.x、Sonoma 14.x 
+- 支持系统：Monterey 12.x、Ventura 13.x、Sonoma 14.x 、Tahoe 26.x
 - 请自行生成修改Board Serial Number、序列号、SmUUID等三码信息
 - EFI(独显/集显可选) [点击下载](https://github.com/lwf1127/Asus-TUF-Z390-9900K-6600XT-EFI/releases)
   
-![输入图片说明](image/macos.png)
+![输入图片说明](image/macos-26.jpg)
+#### 20260203更新：
+1. MacOS升级到Tahoe 26.2,OpenCore-1.0.7,博通网卡需要搭配OCLP-Mod补丁使用。 
+2. 机型升级为iMac20,2。
+3. USB已定制USBPortsMap.kext。
+
 #### 20240129更新：
 1. 独显6600XT，升级到MacOS14.3,OC0.9.7正式版。博通网卡需要搭配OCLP补丁使用。 
 2. 集显HD630在MacOS14下，已无法流畅运行，交互动画会丢帧卡顿，后续将不再更新。
@@ -72,19 +77,21 @@
 ![输入图片说明](image/amd-gpu.png)
 ![输入图片说明](image/wifi.png)
 ![输入图片说明](image/ble.png)
-![输入图片说明](image/dpi.png)
+![输入图片说明](image/dpi-2026.png)
 
 #### OpenCore & Kext：
 ![输入图片说明](image/acpi.png)
 ![输入图片说明](image/dp.png)
-![输入图片说明](image/kernel-3.png)
-![输入图片说明](image/boot-args.png)
+![输入图片说明](image/kernel-2026.png)
+![输入图片说明](image/nvram-2026.png)
 
 
 #### USB定制：
 ![输入图片说明](image/usb-2.png)
 
 #### 鸣谢：
+- laobamac : 特别感谢 @laobamac 对黑果社区的持续贡献！ https://github.com/laobamac
+- SimpleKaruzi: 一键生成黑苹果 EFI 自动化工具 https://github.com/laobamac/SimpleKaruzi
 - EFI参考：https://github.com/jhihhe/Hackintosh-Asus_Prime_Z390P-i9-9900K_UHD630-RX-6600XT-EFI_OpenCore-0.8.8-macOS
 - 国光的黑苹果安装教程：https://apple.sqlsec.com/
 - IT记：https://hackintosh.myitnote.com/
