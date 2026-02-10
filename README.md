@@ -9,7 +9,7 @@
 2. 机型升级为iMac20,2。启动参数新增：-amfipassbeta 
 3. USB驱动已定制USBPortsMap.kext。
 4. 博通网卡需要搭配社区版驱动OCLP-Mod3.1.4补丁使用。 
-5. 如果第一阶段引导报错，需要取消勾选 WhateverGreen.kext 进入第二阶段长时间黑屏，重启进PE勾选后，再重启。
+5. 如果第一阶段引导报错，需要取消勾选 WhateverGreen.kext，进入第二阶段长时间黑屏后，再重启进PE勾选，再重启。
 
 #### 20240129更新：
 1. 独显6600XT，升级到MacOS14.3,OC0.9.7正式版。博通网卡需要搭配OCLP补丁使用。 
