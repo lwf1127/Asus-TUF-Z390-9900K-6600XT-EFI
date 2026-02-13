@@ -4,6 +4,12 @@
 - EFI(独显/集显可选) [点击下载](https://github.com/lwf1127/Asus-TUF-Z390-9900K-6600XT-EFI/releases)
   
 ![输入图片说明](image/macos-26.jpg)
+#### 20260213更新：
+1. MacOS升级到Tahoe 26.3,OpenCore-1.0.7,升级Kexts：RestrictEvents.kext V1.1.7,WhateverGreen.kext V1.7.1d7
+2. 启动参数：-amfipassbeta -lilubetaall agdpmod=pikera igfxonln=1 igfxfw=2 ipc_control_port_options=0 revpatch=auto,sbvmm,asset 
+3. 转载：完美修复WhateverGreen在macOS Tahoe引导OTA和恢复模式异常的问题 https://bbs.pcbeta.com/forum.php?mod=viewthread&tid=2056161&highlight=WhateverGreen
+4. 博通网卡：需要搭配社区版驱动OCLP-Mod3.1.4补丁使用。 https://github.com/laobamac/OCLP-Mod
+
 #### 20260203更新：
 1. MacOS升级到Tahoe 26.2,OpenCore-1.0.7。Kernel相关驱动升级到最新。
 2. 机型升级为iMac20,2。启动参数新增：-amfipassbeta 
